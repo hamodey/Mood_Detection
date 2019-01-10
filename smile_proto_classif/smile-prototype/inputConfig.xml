@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/gesture/mouth/width</oscMessage>
+  <numInputs>1</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>width-1</string>
+  </inputNames>
+</OSCInputGroup>
